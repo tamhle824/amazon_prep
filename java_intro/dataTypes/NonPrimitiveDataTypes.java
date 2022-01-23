@@ -2,7 +2,7 @@ package dataTypes;
 import java.util.Arrays;
 
 public class NonPrimitiveDataTypes {
-    public static void main(String[] args){
+    public static void main(String[]  args){
         String str = "string"; // more memory effecient because you can resuse  
         System.out.println(str);
 
