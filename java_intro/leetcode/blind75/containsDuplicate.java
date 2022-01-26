@@ -1,7 +1,8 @@
+package leetcode.blind75;
 // package leetcode;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Map.Entry;
+
 
 public class containsDuplicate {
 
