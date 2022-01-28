@@ -1,4 +1,4 @@
-// package samplePrograms;
+package samplePrograms;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Map.Entry;
@@ -13,7 +13,7 @@ public class HashMapDemo {
         map.put("b", 20);
         map.put("c",30);
 
-        System.out.println("Size of map is  " + map.size());
+        System.out.println("Size of map is " + map.size());
     }
     
 }
